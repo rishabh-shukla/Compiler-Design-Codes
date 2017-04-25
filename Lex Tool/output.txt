@@ -1,0 +1,18 @@
+Number of octals is 1.
+012 
+
+Number of floats is 2.
+23.23 02.34 
+
+Number of chars is 2.
+"s" 'e' 
+
+Number of integers is 2.
+12 012378 
+
+Number of hexadecimal numbers is 2.
+0x12 0x12B 
+
+Number of suffix is 2.
+1u 12ul 
+
